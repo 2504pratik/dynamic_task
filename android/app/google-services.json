@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "790511194166",
+    "project_id": "dynamic-ui-4c9a7",
+    "storage_bucket": "dynamic-ui-4c9a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790511194166:android:082d7eb1c3106852dec897",
+        "android_client_info": {
+          "package_name": "com.example.dynamic_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHa7Vb2Bu9hNvjXNyJq5oEP5PXraw2xeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
